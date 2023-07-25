@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=006600&height=200&text=Hello%20I'm%20SeoHee%20🐢&fontSize=40&fontColor=e5ece5&rotate=14&fontAlignY=30&fontAlign=70" />
-  
   #### Slowly and Steadily .. 🐢
   ## ⚒️ Stack ⚒️
   ### 💡 I used at least once 
