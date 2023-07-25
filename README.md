@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yeinalee/Yeinalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=006600&height=200&text=Hello%20I'm%20SeoHee%20🐢&fontSize=40&fontColor=e5ece5&rotate=14&fontAlignY=30&fontAlign=70" />
+  
+  #### Slowly and Steadily .. 🐢
+  ## ⚒️ Stack ⚒️
+  ### 💡 I used at least once 
 <img src="https://img.shields.io/badge/Pyhton-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoC&logoColor=white"/>
@@ -27,3 +31,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeinalee&show_icons=true&theme=radical)
+</div>
